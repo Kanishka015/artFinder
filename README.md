@@ -10,7 +10,7 @@ This application is designed to assist in the research phase of ad creation by i
 
 Here is a look at the application in action.
 
-![Project Demo Screenshot](./assets/demo.png)
+![Project Demo Screenshot](./assets/demo1.png)
 
 
 ## Features
@@ -101,3 +101,4 @@ Here is a look at the application in action.
 - Integrate a user-friendly dashboard for visualizing insights.
 
 ---
+
