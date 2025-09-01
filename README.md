@@ -99,11 +99,11 @@ The standard YouTube Data API does not allow for direct searching of advertiseme
 
 This indirect approach allows the tool to effectively achieve its core research goals, including:
 
--Performing competitor analysis.
+- Performing competitor analysis.
 
--Identifying high-performing hooks and strategies.
+- Identifying high-performing hooks and strategies.
 
--Analyzing audience sentiment via comments and engagement metrics.
+- Analyzing audience sentiment via comments and engagement metrics.
 
 ## Future Enhancements
 - Automate the data scraping process with scheduled updates(real time data).
@@ -113,5 +113,6 @@ This indirect approach allows the tool to effectively achieve its core research 
 - Integrate an LLM API-turns it into a proper conversational bot.(Instead of just viewing a dashboard, a user could ask natural language questions like-Summarize the top three pain points from the Reddit comments. The backend would use the scraped data as context for the LLM to generate a precise answer.)
 
 ---
+
 
 
