@@ -1,4 +1,4 @@
-﻿# Automated Ad Research Chatbot
+﻿# Automated Ad Research Bot
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Here-blue?style=for-the-badge&logo=vercel)](https://art-finder-ui.vercel.app/)
 
@@ -94,11 +94,24 @@ Here is a look at the application in action.
   - wordcloud
 - ChartJS
 
+## Problems Faced while building & Solution
+The standard YouTube Data API does not allow for direct searching of advertisements. To overcome this, this application employs a strategic workaround: it scrapes and analyzes the most popular public videos related to a given product.
+
+This indirect approach allows the tool to effectively achieve its core research goals, including:
+
+-Performing competitor analysis.
+
+-Identifying high-performing hooks and strategies.
+
+-Analyzing audience sentiment via comments and engagement metrics.
+
 ## Future Enhancements
-- Automate the data scraping process with scheduled updates.
+- Automate the data scraping process with scheduled updates(real time data).
 - Expand data sources to include platforms like Twitter and Instagram.
 - Improve NLP techniques for more accurate sentiment analysis.
 - Integrate a user-friendly dashboard for visualizing insights.
+- Integrate an LLM API-turns it into a proper conversational bot.(Instead of just viewing a dashboard, a user could ask natural language questions like-Summarize the top three pain points from the Reddit comments. The backend would use the scraped data as context for the LLM to generate a precise answer.)
 
 ---
+
 
